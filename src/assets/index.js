@@ -43,8 +43,14 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import cookers from "./cookers.jpg";
+import chat from "./chat.jpg";
+import pizza from "./Pizza.jpg";
 
 export {
+  cookers,
+  pizza,
+  chat,
   logo,
   backend,
   creator,

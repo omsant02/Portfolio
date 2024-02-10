@@ -46,12 +46,13 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className=" text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a skilled software developer with experience in TypeScript,
-        JavaScript, and Python and expertise in frameworks like React, Angular,
-        Node.js, and Django. I'm a quick learner and collaborate closely with
-        clients to create efficient, scalable, and user-friendly solutions that
-        solve real-world problems. Let's work together to bring your ideas to
-        life!
+        Specializing in Ethereum blockchain development, I bring expertise in
+        Solidity smart contracts, DeFi, and NFTs, alongside skills in
+        TypeScript, JavaScript, Python, React, Angular, Node.js, and Django
+        frameworks. With a focus on crafting scalable solutions, I collaborate
+        closely with clients to bring their ideas to fruition, leveraging
+        blockchain technologies to drive innovation and real-world impact. Let's
+        work together to turn your visions into reality.
       </motion.p>
 
       <div className="mt-10 flex flex-wrap gap-10">
