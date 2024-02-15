@@ -21,6 +21,7 @@ import {
   cookers,
   pizza,
   chat,
+  paypal,
 } from "../assets";
 
 export const navLinks = [
@@ -230,30 +231,34 @@ const projects = [
     source_code_link: "https://github.com/omsant02/OIBSIP",
   },
   {
-    name: "cookers",
+    name: "Decentralized Paypal",
     description:
-      "Welcome to our versatile web application where users can effortlessly search for, add, and customize food recipes to fit their desired servings.",
+      "Decentralized Paypal is a web3 application, revolutionizing online payments with blockchain technology. Effortlessly manage transactions and enjoy financial independence with our secure platform.",
     tags: [
       {
-        name: "javascript",
+        name: "solidity",
         color: "blue-text-gradient",
       },
       {
-        name: "api",
+        name: "react",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "metamask",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
-    image: cookers,
-    source_code_link: "https://github.com/omsant02/Cookers-recipe",
+    image: paypal,
+    source_code_link: "https://github.com/omsant02/Decentralized-Payment-App",
   },
   {
     name: "Talk-A-Tive",
     description:
-      "Introducing our robust real-time chat application. Users can engage in both individual and group chats, search for other users, view profiles, and effortlessly log out.",
+      "Introducing our full-stack web app! Enjoy real-time chatting, group conversations, user search, profiles, and easy log out. Stay connected effortlessly with our intuitive platform.",
     tags: [
       {
         name: "nodejs",
@@ -274,6 +279,27 @@ const projects = [
     ],
     image: chat,
     source_code_link: "https://github.com/omsant02/Chat-App",
+  },
+  {
+    name: "cookers",
+    description:
+      "Welcome to our versatile web application where users can effortlessly search for, add, and customize food recipes to fit their desired servings.",
+    tags: [
+      {
+        name: "javascript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "api",
+        color: "green-text-gradient",
+      },
+      {
+        name: "scss",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: cookers,
+    source_code_link: "https://github.com/omsant02/Cookers-recipe",
   },
   // {
   //   name: "Trip Guide",

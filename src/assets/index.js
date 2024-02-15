@@ -46,6 +46,7 @@ import tripguide from "./tripguide.png";
 import cookers from "./cookers.jpg";
 import chat from "./chat.jpg";
 import pizza from "./Pizza.jpg";
+import paypal from "./D_paypal.jpg";
 
 export {
   cookers,
@@ -93,4 +94,5 @@ export {
   marketeers,
   oasis,
   cyberlabs,
+  paypal,
 };
