@@ -22,6 +22,7 @@ import {
   pizza,
   chat,
   paypal,
+  amazscrap,
 } from "../assets";
 
 export const navLinks = [
@@ -220,7 +221,7 @@ const projects = [
       },
       {
         name: "aws",
-        color: "pink-text-gradient",
+        color: "yellow-text-gradient",
       },
       {
         name: "stripe",
@@ -240,12 +241,12 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "react",
+        name: "reactjs",
         color: "green-text-gradient",
       },
       {
         name: "metamask",
-        color: "pink-text-gradient",
+        color: "yellow",
       },
       {
         name: "tailwind",
@@ -254,6 +255,27 @@ const projects = [
     ],
     image: paypal,
     source_code_link: "https://github.com/omsant02/Decentralized-Payment-App",
+  },
+  {
+    name: "Amazon Scraper",
+    description:
+      "Streamline your shopping decisions with our Amazon price analysis tool. Simply input the product link to instantly access maximum, current, and lowest prices. Make informed purchasing choices effortlessly.",
+    tags: [
+      {
+        name: "TypeScript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "nextjs",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: amazscrap,
+    source_code_link: "https://github.com/omsant02/Web-Scrapper",
   },
   {
     name: "Talk-A-Tive",
@@ -274,7 +296,7 @@ const projects = [
       },
       {
         name: "websockets",
-        color: "pink-text-gradient",
+        color: "yellow-text-gradient",
       },
     ],
     image: chat,

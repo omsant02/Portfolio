@@ -47,6 +47,7 @@ import cookers from "./cookers.jpg";
 import chat from "./chat.jpg";
 import pizza from "./Pizza.jpg";
 import paypal from "./D_paypal.jpg";
+import amazscrap from "./amazscrap.jpg";
 
 export {
   cookers,
@@ -95,4 +96,5 @@ export {
   oasis,
   cyberlabs,
   paypal,
+  amazscrap,
 };
