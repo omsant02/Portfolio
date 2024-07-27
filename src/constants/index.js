@@ -58,7 +58,7 @@ const services = [
     icon: blockchain,
   },
   {
-    title: "Python Developer",
+    title: "Rust Developer",
     icon: python2,
   },
   {
@@ -133,7 +133,7 @@ const experiences = [
     points: [
       "Developing and maintaining Decentralized applications using Solidity and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
+      // "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
@@ -158,9 +158,9 @@ const experiences = [
     date: "Nov 2023 - Dec 2023",
     points: [
       "Collaborated with the development team to design and implement features on a full stack Online Food delivery application.",
-      "Architected a user-centric interface, revolutionizing user interactions with NextJS",
+      // "Architected a user-centric interface, revolutionizing user interactions with NextJS",
       "Utilized MongoDB and AWS for streamlined data storage and retrieval, ensuring efficient login/signup, datahandling within the application.",
-      "Implemented Stripe payment gateway for smoother payment checkouts.",
+      "Implemented Stripe payment gateway for smoother payment checkouts and Architected a user-centric interface with NextJS",
     ],
   },
   {
@@ -168,12 +168,25 @@ const experiences = [
     company_name: "Marketeers",
     icon: marketeers,
     iconBg: "#383E56",
-    date: "Dec 2023 - Jan 2023",
+    date: "Dec 2023 - Jan 2024",
     points: [
-      "Contributed as a freelance front-end web developer specializing in implementing captivating animations and dynamic effects.",
-      "Collaborated closely with clients and development teams to integrate animations seamlessly into existing web applications.",
+      "Contributed as a front-end web developer specializing in implementing captivating animations and dynamic effects.",
+      // "Collaborated closely with clients and development teams to integrate animations seamlessly into existing web applications.",
       "Demonstrated proficiency in creating fluid animations and interactive elements to elevate the overall user experience.",
       "Provided support and guidance to ensure smooth integration of animations with existing codebases.",
+    ],
+  },
+  {
+    title: "Blockchain Developer",
+    company_name: "Spawn Point",
+    icon: marketeers,
+    iconBg: "#383E56",
+    date: "Feb 2024 - Apr 2024",
+    points: [
+      "Led integration of Identity Connect for enhanced user security and privacy in web3 gaming.",
+      "Implemented Aptos Randomness API to ensure fair game mechanics, boosting player trust and engagement.",
+      "Spearheading development of Aptos Keyless, leveraging zero-knowledge proof for next-gen user authentication in web3 gaming platforms.",
+      // "Provided support and guidance to ensure smooth integration of animations with existing codebases.",
     ],
   },
 ];
