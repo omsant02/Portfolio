@@ -34,11 +34,13 @@ import django from "./tech/django.png";
 import oasis from "./tech/oasis.png";
 import cyberlabs from "./tech/cyberlabs.png";
 import marketeers from "./tech/marketeers.png";
+import rust2 from "./tech/rust2.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import sp from "./company/sp.jpg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -48,6 +50,7 @@ import chat from "./chat.jpg";
 import pizza from "./Pizza.jpg";
 import paypal from "./D_paypal.jpg";
 import amazscrap from "./amazscrap.jpg";
+import rust from "./rust.png";
 
 export {
   cookers,
@@ -97,4 +100,7 @@ export {
   cyberlabs,
   paypal,
   amazscrap,
+  rust,
+  rust2,
+  sp,
 };

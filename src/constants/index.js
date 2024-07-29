@@ -25,6 +25,7 @@ import {
   amazscrap,
   rust,
   rust2,
+  sp,
 } from "../assets";
 
 export const navLinks = [
@@ -173,7 +174,7 @@ const experiences = [
   {
     title: "Blockchain Developer",
     company_name: "Spawn Point",
-    icon: "",
+    icon: sp,
     iconBg: "#383E56",
     date: "Feb 2024 - Apr 2024",
     points: [
