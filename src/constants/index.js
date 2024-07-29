@@ -23,6 +23,8 @@ import {
   chat,
   paypal,
   amazscrap,
+  rust,
+  rust2,
 } from "../assets";
 
 export const navLinks = [
@@ -59,7 +61,7 @@ const services = [
   },
   {
     title: "Rust Developer",
-    icon: python2,
+    icon: rust,
   },
   {
     title: "FreeLancer",
@@ -77,8 +79,8 @@ const technologies = [
     icon: typescript,
   },
   {
-    name: "Python",
-    icon: python,
+    name: "Rust",
+    icon: rust2,
   },
   {
     name: "Solidity",
@@ -93,16 +95,8 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Angular",
-    icon: angular,
-  },
-  {
     name: "Node JS",
     icon: nodejs,
-  },
-  {
-    name: "Django",
-    icon: django,
   },
   {
     name: "MongoDB",
@@ -179,7 +173,7 @@ const experiences = [
   {
     title: "Blockchain Developer",
     company_name: "Spawn Point",
-    icon: marketeers,
+    icon: "",
     iconBg: "#383E56",
     date: "Feb 2024 - Apr 2024",
     points: [
